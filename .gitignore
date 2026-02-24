@@ -1,0 +1,48 @@
+# Maven build output
+/target/
+
+# IDEs
+/.idea/
+/*.iml
+/.project
+/.classpath
+/.settings/
+
+# VS Code settings (optional — remove if you want to keep .vscode in repo)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse specific
+.settings/
+bin/
+
+# IntelliJ caches
+out/
+
+# Test reports
+/surefire-reports/
+/failsafe-reports/
+
+# Generated sources (if you want to ignore)
+/generated-sources/
+
+# Environment files
+.env

@@ -1,0 +1,5 @@
+# sample data for Account_Bank
+exampleAgency=067-8
+exampleAccount=1021
+exampleClient=NIVALDO BEIRAO
+exampleBalance=237.48
