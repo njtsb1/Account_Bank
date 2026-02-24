@@ -10,6 +10,8 @@ Learning how to simulate a bank account using the terminal/console.
 
 ## Project Structure
 
+```Markdown
+
 Account_Bank
 ├─ .github
 │  └─ instructions.md
@@ -40,6 +42,8 @@ Account_Bank
 │           └─ AccountTerminalTest.class
 ├─ pom.xml
 └─ README.md
+
+```
 
 ## Build and Run
 
