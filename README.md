@@ -40,6 +40,8 @@ Account_Bank
 │     └─ com
 │        └─ accountbank
 │           └─ AccountTerminalTest.class
+├─ .gitignore
+├─ LICENSE
 ├─ pom.xml
 └─ README.md
 
